@@ -14,9 +14,8 @@ Modern, luxurious, colorful, and blazing‑fast portfolio inspired by JetBrains.
 </div>
 
 
-> Live Demo (after publishing): https://ZACODEC-IO.github.io/zacodec-portfolio
->
-> Change ZACODEC-IO and zacodec-portfolio if you pick a different GitHub username or repository name.
+> Live Demo (after publishing): https://zacodec-io.github.io/ZACODEC-Portfolio/
+
 
 
 ## Table of Contents
